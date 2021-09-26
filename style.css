@@ -1,0 +1,30 @@
+body {
+  background-color: lightblue;
+}
+textarea {
+  width: 80%;
+  height: 10vh;
+  display: block;
+  margin: 1rem;
+  padding: 1rem 1rem 1rem 1rem;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+}
+#upload {
+  border: 1px solid black;
+  height: 10vh;
+  width: 80%;
+  margin: 1rem;
+  padding: 1rem;
+}
+.center {
+  text-align: center;
+}
+.centerbtn {
+  background-color: lightblue;
+  padding: 2rem;
+}
